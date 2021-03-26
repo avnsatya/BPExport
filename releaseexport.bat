@@ -1,1 +1,1 @@
-"C:\Program Files\Blue Prism Limited\Blue Prism Automate\AutomateC.exe" /exportpackage /sso %1 /dbconname %2
+"C:\Program Files\Blue Prism Limited\Blue Prism Automate\AutomateC.exe" /exportpackage %1 /sso /dbconname %2
